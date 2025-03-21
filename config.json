@@ -1,0 +1,23 @@
+{
+    "theme": "dark",
+    "window": {
+        "width": 800,
+        "height": 600
+    },
+    "logs": {
+        "filters": {
+            "DEBUG": false,
+            "INFO": true,
+            "WARNING": true,
+            "ERROR": true
+        },
+        "max_cache": 1000
+    },
+    "obs": {
+        "host": "localhost",
+        "port": 4455,
+        "password": "7eKIK3OxunVrs9lf",
+        "default_profile": "League of Legends",
+        "auto_connect": true
+    }
+}
